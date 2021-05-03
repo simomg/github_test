@@ -1,2 +1,2 @@
-# github_test
-dev lecture for github
+# github
+시작해보자
